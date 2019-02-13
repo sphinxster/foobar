@@ -1,0 +1,7 @@
+bar 
+
+declared
+
+baz
+
+bereft
