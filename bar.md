@@ -1,7 +1,7 @@
 bar 
 
-declared
+bemoaned
 
 baz
 
-bereft
+begone!
