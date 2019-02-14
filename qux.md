@@ -1,0 +1,7 @@
+Quixotic
+
+comely
+
+quite
+
+chaotic
