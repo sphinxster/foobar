@@ -1,7 +1,0 @@
-bar 
-
-bemoaned
-
-baz
-
-begone!
