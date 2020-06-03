@@ -1,5 +1,3 @@
-Unix
-
 much
 
 better
