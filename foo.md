@@ -1,7 +1,5 @@
-much
+There is no OS
 
-better
+better than
 
-Linux
-
-than who?
+Linux!
