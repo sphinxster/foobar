@@ -10,5 +10,4 @@ Or what's left?
 
 As in copyleft?
 
-Except there is another one...
-
+foo-4 has a different version of history.
