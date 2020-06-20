@@ -6,9 +6,7 @@ Linux!
 
 Right, Linus?
 
-Or what's left? 
+There's no place like 127.0.0.1 ....
 
-As in copyleft?
-
-Except there is another one...
+foo-5 has a different version of history--even more divergent from foo-4!
 
