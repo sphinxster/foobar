@@ -24,6 +24,12 @@ export DEBIAN_FRONTEND=noninteractive
 3. Next update the index. This assumes your user has sudo privileges.
 
 ```bash
-sudo apt-get -y update
+
+sudo apt-get -y update && apt-get -y upgrade
 ```
 
+4. Now, install the required packages for your Dockerfile or application.
+
+```bash
+apt-get -y install --no-install-recommends python3-pip python3-setuptools curl wget
+```
