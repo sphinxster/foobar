@@ -33,4 +33,3 @@ sudo apt-get -y update && apt-get -y upgrade
 ```bash
 apt-get -y install --no-install-recommends python3-pip python3-setuptools curl wget
 ```
-
