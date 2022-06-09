@@ -21,9 +21,9 @@ Combined flags are explained below.
 export DEBIAN_FRONTEND=noninteractive
 ```
 
-3. Next update the index.
+3. Next update the index. This assumes your user has sudo privileges.
 
 ```bash
-apt-get -y update
+sudo apt-get -y update
 ```
 
