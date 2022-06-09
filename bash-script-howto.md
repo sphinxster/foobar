@@ -28,9 +28,9 @@ export DEBIAN_FRONTEND=noninteractive
 sudo apt-get -y update && apt-get -y upgrade
 ```
 
-4. Now, install your required Ubuntu packages
+4. Now, install the required packages for your Dockerfile or application.
 
 ```bash
-apt-get -y install --no-install-recommends python3-pip python3-setuptools
+apt-get -y install --no-install-recommends python3-pip python3-setuptools curl wget
 ```
 
