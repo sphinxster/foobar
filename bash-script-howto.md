@@ -1,6 +1,6 @@
 # Bash script for Dockerfile
 
-This page explains how to create a bash script, which will be invoked in a Dockefile to install Ubuntu package dependencies as part of a container image. This provides a starting point. After completing steps 1-3, you may add specific packages depending on the use case.
+This page explains how to create a bash script to be invoked in a Dockefile, in which Ubuntu package dependencies will be installed. This instruction provides a starting point. After completing steps 1-3, you may add specific packages depending on the use case.
 
 1. First use the `set` built in to set shell variables and positional parameters.
 
